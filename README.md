@@ -1,6 +1,6 @@
 # Ischooli Cpeg 202 Lab 7
 
-_From class: **ISCHOOLI**_
+_From class: **CPEG 202**_
 
 ## Overview
 FPGA/VHDL project targeting the Zybo or similar board.
