@@ -1,4 +1,4 @@
-# Ischooli Cpeg 202 Lab 7
+# Cpeg 202 Lab 7
 
 _From class: **CPEG 202**_
 
