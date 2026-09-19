@@ -1,2 +1,5 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+*.xdc linguist-language=VHDL
+*.vhd linguist-language=VHDL
+*.bit linguist-generated=true
